@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/first-food-app/static/css/main.48f4ce1e.css",
+    "main.js": "/first-food-app/static/js/main.9fbdc322.js",
+    "static/js/453.18cd7ebe.chunk.js": "/first-food-app/static/js/453.18cd7ebe.chunk.js",
+    "index.html": "/first-food-app/index.html",
+    "main.48f4ce1e.css.map": "/first-food-app/static/css/main.48f4ce1e.css.map",
+    "main.9fbdc322.js.map": "/first-food-app/static/js/main.9fbdc322.js.map",
+    "453.18cd7ebe.chunk.js.map": "/first-food-app/static/js/453.18cd7ebe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48f4ce1e.css",
+    "static/js/main.9fbdc322.js"
+  ]
+}
